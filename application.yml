@@ -1,0 +1,8 @@
+server:
+  port: 8081
+bookfinder:
+  host: 127.0.0.1
+  url: /books
+  port: 8080
+  username: dotdash
+  password: password
